@@ -1,4 +1,4 @@
-#Data Analysis About Economy of Martinique
+#Data Analysis About Martinican Economy
 
 Martinique represents an interesting case for study for the relation between mass energy economics balance for the simplification.
 Martinique does not have much natural ressources for modern industry. Current technical system is based on key technology including rare earth minerals, oil and gas.
